@@ -9,6 +9,9 @@ Drag and drop "HeadBlend-Profiles.lua" in AppData\Roaming\PopstarDevs\2Take1Menu
 
 If you are updating from an older version then you can replace the old one.
 
+## Saved Head Blends location
+Saved HBs can be found in scripts\Head_Blends
+
 ## Feature List
 ### Local > Script Features > Head Blend Profiles
 - Options
