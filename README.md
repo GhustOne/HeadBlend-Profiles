@@ -22,4 +22,4 @@ Saved HBs can be found in scripts\Head_Blends
     - saved head blends (you can either "set" or "delete", "delete" will remove it from ingame and on your pc)
 
 ### Online > Online Players > any player > Script Features 
-- yoink the head blend (saves other people's headblend, appears in local script features)
+- yoink their head blend (saves other people's headblend, appears in local script features)
