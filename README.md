@@ -12,6 +12,9 @@ If you are updating from an older version then you can replace the old one.
 ## Saved Head Blends location
 Saved HBs can be found in scripts\Head_Blends
 
+## What does this script do?
+This script allows you to save your or other people's face, hair and makeup to a file and apply it whenever you want. 
+
 ## Feature List
 ### Local > Script Features > Head Blend Profiles
 - Options
