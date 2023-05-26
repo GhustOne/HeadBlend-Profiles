@@ -22,7 +22,7 @@ Saved HBs can be found in scripts\Head_Blends
 
     - Save current Head Blend (saves head blend to a file)
 
-    - saved head blends (you can either "set" or "delete", "delete" will remove it from ingame and on your pc)
+    - saved head blends (you can either "Apply" or "Auto Apply" which will keep applying every 10 seconds)
 
 ### Online > Online Players > any player > Script Features 
 - yoink their head blend (saves other people's headblend, appears in local script features)
